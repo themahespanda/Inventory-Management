@@ -1,4 +1,4 @@
-# SmartStock AI ? Intelligent Inventory Management Agent
+# SmartStock AI- Intelligent Inventory Management Agent
 
 An autonomous AI agent for real-time inventory monitoring, threshold reasoning, and automated multi-channel reorder execution.
 
