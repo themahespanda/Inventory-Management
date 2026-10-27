@@ -2,9 +2,6 @@
 
 An autonomous AI agent for real-time inventory monitoring, threshold reasoning, and automated multi-channel reorder execution.
 
-# Inventory Management
-### AI-Powered Inventory Intelligence Dashboard
-
 [![📦 Live Demo](https://img.shields.io/badge/📦_LIVE_DEMO-Open_Inventory_Dashboard-15803D?style=for-the-badge)](https://themahespanda.github.io/Inventory-Management/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3-cyan.svg)](https://react.dev/)
